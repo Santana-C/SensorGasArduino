@@ -130,20 +130,14 @@ namespace SensorGasArduino{
                 return;
             }                
             string mandar = "";
-            switch (cboUmbralAdvertencia.Text) {
-                case "200":
-                    mandar = "a";
-                break;
-                case "300":
-                    mandar = "e";
-                    break;
-                case "400":
-                    mandar = "i";
-                    break;
-                case "500":
-                    mandar = "o";
-                    break;
-            }
+            if(cboUmbralAdvertencia.Text == "200")
+                mandar = "a";
+            else if(cboUmbralAdvertencia.Text == "300")
+                mandar = "e";
+            else if(cboUmbralAdvertencia.Text == "400")
+                mandar = "i";
+            else if(cboUmbralAdvertencia.Text == "500")
+                mandar = "o";
             try {
                 Arduino.WriteLine(mandar);
             }catch(Exception) { }
@@ -159,23 +153,14 @@ namespace SensorGasArduino{
             }
             umbralPel = int.Parse(cboUmbralPeligro.Text); 
             string mandar = "";
-            switch (cboUmbralPeligro.Text) {
-                case "400":
-                    mandar = "A";
-                    break;
-                case "500":
-                    mandar = "E";
-                    break;
-                case "600":
-                    mandar = "I";
-                    break;
-                case "700":
-                    mandar = "O";
-                    break;
-                case "900":
-                    mandar = "U";
-                    break;
-            }
+            if(cboUmbralPeligro.Text == "400")
+                mandar = "A";
+            else if(cboUmbralPeligro.Text == "500")
+                mandar = "E";
+            else if(cboUmbralPeligro.Text == "600")
+                mandar = "I";
+            else if(cboUmbralPeligro.Text == "700")
+                mandar = "O";
             try {
                 Arduino.WriteLine(mandar);
             }
