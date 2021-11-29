@@ -1,0 +1,10 @@
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Release\SensorGasArduino.exe.config
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Release\SensorGasArduino.exe
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Release\SensorGasArduino.pdb
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.Form1.resources
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.Properties.Resources.resources
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.csproj.GenerateResource.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.exe
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Release\SensorGasArduino.pdb

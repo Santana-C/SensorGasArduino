@@ -1,0 +1,21 @@
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.exe.config
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.exe
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.pdb
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.AssemblyReference.cache
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.Form1.resources
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.Properties.Resources.resources
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.GenerateResource.cache
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.CoreCompileInputs.cache
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.exe
+C:\Users\Santana\source\repos\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.pdb
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.exe.config
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.exe
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\bin\Debug\SensorGasArduino.pdb
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.Form1.resources
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.Properties.Resources.resources
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.GenerateResource.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.exe
+C:\Users\Santana\Visual Studio Projects\SensorGasArduino\SensorGasArduino\obj\Debug\SensorGasArduino.pdb
